@@ -2,7 +2,7 @@
 알고리즘 문제 풀이 스터디입니다.
 with [민호](https://github.com/ymh254), [혜윤](http://github.com/hyeyoon0808), [혜지](https://github.com/gpwltl)
 
-### 참고하는 사이트
+### :seedling: 참고하는 사이트
 
 > [Baekjoon Online Judge](https://www.acmicpc.net/)
 >
@@ -11,7 +11,7 @@ with [민호](https://github.com/ymh254), [혜윤](http://github.com/hyeyoon0808
 > [삼성 SW 아카데미](https://swexpertacademy.com/)
 
 
-### 규칙
+### :seedling: 규칙
 
 1. 할일 기록하기 (개인적으로 추가 공부도 기록 가능)
 2. 코드 리뷰 필수!
@@ -19,7 +19,7 @@ with [민호](https://github.com/ymh254), [혜윤](http://github.com/hyeyoon0808
 4. 매주 월요일 회의하기(온오프라인)
 
 
-### Repository 규칙
+### :seedling: Repository 규칙
 
 >  BOJ/[문제번호]/계정_src
 >
@@ -29,7 +29,7 @@ with [민호](https://github.com/ymh254), [혜윤](http://github.com/hyeyoon0808
 > BOJ/[문제번호]/README.md
 
 
-### Contributors
+### :seedling: Contributors
 
 > [혜윤-hyeyoon0808](http://github.com/hyeyoon0808)
 >
@@ -39,7 +39,7 @@ with [민호](https://github.com/ymh254), [혜윤](http://github.com/hyeyoon0808
 
 
 
-### 일정표
+### :seedling: 일정표
 
 > 완전 탐색 (백준 골드 3,2)
 >

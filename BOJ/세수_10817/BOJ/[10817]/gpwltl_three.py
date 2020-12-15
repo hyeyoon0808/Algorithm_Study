@@ -1,0 +1,7 @@
+num1, num2, num3 = input().split()
+number = list()
+number.append(int(num1))
+number.append(int(num2))
+number.append(int(num3))
+number.sort()
+print(number[1])

@@ -5,5 +5,6 @@
 - list(): list 형태로 입력
 
 - sort(): list 오름차순 
-- reverse(): list 내림차순
+- reverse() or sort(reverse=True): list 내림차순
+- sorted() & reversed(): 원본을 변경하지 않는 오름차순, 
 

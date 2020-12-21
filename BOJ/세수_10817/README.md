@@ -4,7 +4,10 @@
 - map(): int형으로 받기 위해 쓰임 
 - list(): list 형태로 입력
 
+**List 함수**
 - sort(): list 오름차순 
 - reverse() or sort(reverse=True): list 내림차순
-- sorted() & reversed(): 원본을 변경하지 않는 오름차순, 
+
+**내장 함수**
+- sorted() & reversed(): 원본을 변경하지 않는 오름차순, 내림차순
 

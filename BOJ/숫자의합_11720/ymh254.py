@@ -1,5 +1,6 @@
-t = int(input())
-
-for i in range(t):
-    a, b = map(int, input().split(" "))
-    print(a+b)
+numberLength = int(input())
+number = list(input())
+result = 0
+for i in range(0, numberLength):
+    result += int(number[i])
+print(result)

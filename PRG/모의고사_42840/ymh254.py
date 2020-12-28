@@ -1,3 +1,5 @@
+# answers = [1, 1, 1, 1, 1]
+
 def solution(answers):
     one = [1, 2, 3, 4, 5]
     two = [2, 1, 2, 3, 2, 4, 2, 5]
@@ -17,4 +19,6 @@ def solution(answers):
         if max(result) == result[i]:
             answer.append(i+1)
 
-    return answer
+
+return answer
+# print(answer)

@@ -6,3 +6,4 @@
     => i : index, val : value
 - 2차원 리스트 & 이중 for loop 익히기
 - cycle (itertools 라이브러리)
+

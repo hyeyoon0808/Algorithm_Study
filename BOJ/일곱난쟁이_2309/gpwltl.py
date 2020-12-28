@@ -1,5 +1,6 @@
 from random import sample
 nineP = []
+# sevenP = []
 
 # 9개 받아와서 리스트에 추가
 for i in range(9):

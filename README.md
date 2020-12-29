@@ -21,9 +21,8 @@ with [여민호](https://github.com/ymh254), [조혜윤](http://github.com/hyeyo
 
 ### :seedling: 스터디 마스터 역할
 
-1. 코드 리뷰 
-2. 해당 주 회고록과 코드 리뷰 기록 -> [여기로](https://github.com/hyeyoon0808/Algorithm_Study/tree/main/Code_review)
-3. 폴더 정리
+1. 해당 주 회고록과 코드 리뷰 기록 -> [여기로](https://github.com/hyeyoon0808/Algorithm_Study/tree/main/Code_review)
+2. 폴더 정리
 
 ### :seedling: Repository 규칙
 

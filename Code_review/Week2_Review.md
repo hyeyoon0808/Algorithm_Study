@@ -5,6 +5,7 @@
 ### :round_pushpin: 평균 - 1546
 
 - map(함수, 리스트)
+
   `map(lambda x : x표현식, 리스트)` : map function 사용시에는 lambda 사용할 것
 
 ### :round_pushpin: 열개 출력 - 11721
@@ -36,6 +37,7 @@
 
 - 변수
   `global sevenP`
+  
   while문 밖에서도 리스트를 사용하기 위해 global 붙이기(전역변수 값 변경가능)
 
 - 리스트에서 랜덤 추출 `import random`
@@ -51,8 +53,9 @@
   choiceList3 = [random.choice(li) for i in range(2)] # 리스트에서 2개 랜덤 추출(중복 허용)
   ```
 
-- 입력
-  input() 대신 sys.stdin.readlin() -> 시간적 효율성 높아짐 (import sys)
+- 입력 `import sys`
+
+  input() 대신 **sys.stdin.readlin()** -> 시간적 효율성 높아짐(빠르게 입력받고 싶을 때)
 
 - 자료형
   - set 집합: 중복 방지

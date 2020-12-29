@@ -14,11 +14,16 @@ with [여민호](https://github.com/ymh254), [조혜윤](http://github.com/hyeyo
 ### :seedling: 규칙
 
 1. 코드리뷰 필수
-2. 매주 회고록과 코드리뷰 기록 -> [여기로](https://github.com/hyeyoon0808/Algorithm_Study/tree/main/Code_review)
+2. 매주 회고록과 코드 리뷰 기록 -> [여기로](https://github.com/hyeyoon0808/Algorithm_Study/tree/main/Code_review)
 3. 매주 목표 세우기
 4. 매주 월요일 회의하기 (온오프라인)
-5. 매주 돌아가며 스크럼 마스터 하기 (혜윤-혜지-민호)
+5. 매주 돌아가며 스터디 마스터 하기 (혜윤-혜지-민호)
 
+### :seedling: 스터디 마스터 역할
+
+1. 코드 리뷰 
+2. 해당 주 회고록과 코드 리뷰 기록 -> [여기로](https://github.com/hyeyoon0808/Algorithm_Study/tree/main/Code_review)
+3. 폴더 정리
 
 ### :seedling: Repository 규칙
 

@@ -55,7 +55,7 @@
 
 - 입력 `import sys`
 
-  input() 대신 **sys.stdin.readlin()** -> 시간적 효율성 높아짐(빠르게 입력받고 싶을 때)
+  input() 대신 `sys.stdin.readline()` -> 시간적 효율성 높아짐(빠르게 입력받고 싶을 때)
 
 - 자료형
   - set 집합: 중복 방지

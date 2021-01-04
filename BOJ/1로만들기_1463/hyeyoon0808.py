@@ -17,7 +17,6 @@
 #         count += 1
 #         if temp == n: #temp랑 n이 같아졌을때 멈춤
 #             break
-
 #     print(count)
 
 #다른사람 코드

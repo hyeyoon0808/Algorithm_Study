@@ -11,3 +11,4 @@ def solution(n, lost, reserve):
             
  #전체학생수 - 체육복갯수
     return n-len(setLost)
+    

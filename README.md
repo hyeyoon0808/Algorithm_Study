@@ -13,7 +13,7 @@ with [여민호](https://github.com/ymh254), [조혜윤](http://github.com/hyeyo
 
 ### :seedling: 규칙
 
-1. 코드 주석 
+1. 코드 주석 달기  
 2. 매주 코드 리뷰 후, 기록 -> [여기로](https://github.com/hyeyoon0808/Algorithm_Study/tree/main/Code_review)
 3. 매주 목표 세우기
 4. 매주 월요일 회의하기 (온오프라인)

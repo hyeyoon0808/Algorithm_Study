@@ -41,7 +41,7 @@ n = int(input())
 serial = []
 for _ in range(n):
     a = str(input())
-    serial.append(array)
+    serial.append(a)
 
 if len(serial) != 0 and len(serial) > 1:
     for i in insert_sort(serial):

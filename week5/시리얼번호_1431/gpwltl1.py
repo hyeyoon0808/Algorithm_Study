@@ -10,6 +10,7 @@ def sun_num(s):
     answer = 0
     for i in s:
         if i.isdigit() == True:  # 숫자라면?
+            # if i >= '0' and i <= '9' :
             answer += int(i)
     return answer
 
@@ -26,7 +27,7 @@ for i in serial_num:
     print(i)
 
 
-# __line 에서 사용한 함수? String.isalpha() -> 문자열 알파벳 구성 여부확인
+# String.isalpha() -> 문자열 알파벳 구성 여부확인
 # String.isdigit() -> 숫자로만 구성된지 여부 확인
 
 # re.findall("\d", string) : 문자열에서 숫자뽑아내기

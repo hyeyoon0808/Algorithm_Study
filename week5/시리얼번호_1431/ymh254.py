@@ -5,8 +5,8 @@ cnt = 0
 
 
 for i in range(n):
-    for j in lst[i]:
-        if j.isdecimal():
+    for j in lst[i]:  # enumerate쓰세요! for i, v in enumerate(lst):
+        if j.isdecimal():  # isdecimal(): 숫자가 있는지 확인
             cnt += int(j)
     check.append((lst[i], cnt))
     cnt = 0

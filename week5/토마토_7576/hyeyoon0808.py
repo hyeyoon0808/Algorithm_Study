@@ -53,7 +53,7 @@ while 1:
     deq = deq_second 
     if not deq: break 
     ans += 1 
-    
+
 #아직 익지 않은 토마토가 있는지 확인 
 for i in range(n): 
     if 0 in arr[i]: 

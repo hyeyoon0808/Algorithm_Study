@@ -9,7 +9,7 @@ dic = {}
 for i in range(len(word)):
     for j in range(len(word[i])):
         if word[i][j] not in dic:
-            dic[word[i][j]] = pow(10, len(word[i])-j-1)
+            dic[word[i][j]] = pow(10, len(word[i])-j-1) #a의 b제곱을 계산하여 반환
         else:
             dic[word[i][j]] += pow(10, len(word[i])-j-1)
 

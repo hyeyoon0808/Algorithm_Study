@@ -10,7 +10,6 @@ def dfs(begin, target, words, visit):
         for i in range(len(words)):
             # 각 단어가 이전 비교값과 스펠링이 1개만 다르다면 방문여부 변경 & stacks에 추가
             if len([j for j in range(len(words[i])) if words[i][j] != stack[j]]) == 1:
-                
                 if visit[i] != 0:
                     continue
                 visit[i] = 1

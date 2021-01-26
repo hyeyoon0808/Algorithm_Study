@@ -15,7 +15,7 @@ def sol(b, t, words):
                 for w in words:
                     cnt = 0
                     for j in range(len(b)):
-                        if i[j] != w[j]:  # 글자 하나하나 비교하여 드른 글자 수만큼 cnt +1
+                        if i[j] != w[j]:  # 글자 하나하나 비교하여 다른 글자 수만큼 cnt +1
                             cnt += 1
                         if cnt == 2:  # cnt가 2가 되면 단어를 대체할 수 없으므로 바로 break
                             break

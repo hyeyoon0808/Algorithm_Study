@@ -38,7 +38,6 @@ def solution(board, moves):
     count = 0
     for i in answer:
         stack.append(i)
-        print(stack)
         if len(stack) > 1 and stack[-1] == stack[-2]:
             stack.pop()
             stack.pop()

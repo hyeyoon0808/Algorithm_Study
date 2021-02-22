@@ -1,3 +1,6 @@
+# 접근하는 키가 존재하지 않는 경우 오류가 아닌 지정해준 데이터 타입의 기본값을 가지는 키를 생성
+# str 적어줄 경우 기본값을 "
+# int 적어줄 경우 0 호출
 from collections import defaultdict
 
 

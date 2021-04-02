@@ -12,9 +12,13 @@ m = lst[n-1]
 cnt = 1
 for i in range(n-2, -1, -1):
     if m == lst[i]:
+        print("m1 "+str(m))
+        print("add1 "+str(lst[i]))
         continue
     else:
         m = max(lst[i], m)
+        print("m2 "+str(m))
+        print("add2 "+str(lst[i]))
         if m == lst[i]:
             cnt += 1
 print(cnt)
